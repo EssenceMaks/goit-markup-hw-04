@@ -365,7 +365,6 @@ img {
 
 .team-list-wrapper {
     display: flex;
-    flex-direction: column;
 }
 
 .team-member-card {
