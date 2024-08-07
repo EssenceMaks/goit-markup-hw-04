@@ -424,6 +424,7 @@ img {
     border-bottom: 1px solid var(--cornflower);
     border-left: 1px solid var(--cornflower);
     border-right: 1px solid var(--cornflower);
+    line-height: normal;
 }
 
 .portfolio-card-content {
